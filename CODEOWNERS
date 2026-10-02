@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @ITSMEYELLOW-TheDarkLordsConsole
+/src/backend/database.py      @ITSMEYELLOW-TheDarkLordsConsole
+/src/backend/routers/auth.py  @ITSMEYELLOW-TheDarkLordsConsole
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @ITSMEYELLOW-TheDarkLordsConsole
